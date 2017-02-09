@@ -13,7 +13,7 @@ for a more "basic" version. The V2 includes:
 
 ### Live Demo
 
-See a live demo @ [`henrythemes.github.io/hello-pages-theme-v2` »](https://henrythemes.github.io/hello-pages-theme-v2)
+See a live demo @ [`testdada.github.io/hello-pages-theme-v2` »](https://testdada.github.io/hello-pages-theme-v2)
 
 
 ### More Themes
